@@ -51,12 +51,10 @@ The Streamlit script (`CA2_Streamlit_Python_Script(24300262).ipynb`) allows user
    ```bash
    pip install pandas numpy streamlit matplotlib seaborn
 ````
-
-2. **Run Streamlit**:
-
+2. **Run Streamlit**: 
    ```bash
    streamlit run CA2_Streamlit_Python_Script(24300262).ipynb
-   ```
+````
 
 3. **Open in Browser**: Navigate to `http://localhost:8501`
 
